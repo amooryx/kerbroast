@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="kerbroast" width="800">
+</div>
+
 # kerbroast
 
 > Red team security tool — authorized use only.
