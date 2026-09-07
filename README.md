@@ -1,8 +1,8 @@
-﻿# kerbroast
+# kerbroast
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python kerbroast.py --help
 ```
 
